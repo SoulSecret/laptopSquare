@@ -1,0 +1,16 @@
+Host
+ec2-52-70-45-163.compute-1.amazonaws.com
+Database
+dcpdad8nsf0uo9
+User
+xnouuazngqsrza
+Port
+5432
+Password
+ea1265022e703b26f11af6c2d94066218a48a658b615507f7f4c06cf6e8c9fb5
+URI
+postgres://xnouuazngqsrza:ea1265022e703b26f11af6c2d94066218a48a658b615507f7f4c06cf6e8c9fb5@ec2-52-70-45-163.compute-1.amazonaws.com:5432/dcpdad8nsf0uo9
+Heroku CLI
+heroku pg:psql postgresql-asymmetrical-43324 --app laptop-square
+
+postgres://xnouuazngqsrza:ea1265022e703b26f11af6c2d94066218a48a658b615507f7f4c06cf6e8c9fb5@ec2-52-70-45-163.compute-1.amazonaws.com:5432/dcpdad8nsf0uo9
